@@ -1,4 +1,4 @@
-# App Node Zero
+# AppNodeZero
 
 A test app for [node-zero](https://github.com/asbjornenge/node-zero).
 
